@@ -1,0 +1,1 @@
+I[SHIFT]t creates HTML[SHIFT] version as well as test version to be sent as an email
